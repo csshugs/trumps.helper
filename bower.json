@@ -1,0 +1,17 @@
+{
+  "name": "genesis-helper",
+  "version": "0.1.0",
+  "authors": [
+    "Dennis Heibuelt <dennis@csshugs.com>",
+    "Harry Roberts <harry@csswizardry.com>"
+  ],
+  "description": "Basic helper classes",
+  "main": "_trumps.helper.scss",
+  "keywords": [
+    "inuitcss",
+    "genesis",
+    "css"
+  ],
+  "license": "Apache",
+  "homepage": "https://github.com/TryGenesis/trumps.helper"
+}
