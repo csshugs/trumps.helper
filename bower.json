@@ -1,6 +1,7 @@
 {
-  "name": "genesis-helper",
-  "version": "0.1.1",
+  "name": "inuit-helper",
+  "version": "0.1.2",
+  "homepage": "https://github.com/TryGenesis/trumps.helper",
   "authors": [
     "Dennis Heibuelt <dennis@csshugs.com>",
     "Harry Roberts <harry@csswizardry.com>"
@@ -9,9 +10,8 @@
   "main": "_trumps.helper.scss",
   "keywords": [
     "inuitcss",
-    "genesis",
+    "oocss",
     "css"
   ],
-  "license": "Apache",
-  "homepage": "https://github.com/TryGenesis/trumps.helper"
+  "license": "Apache"
 }
